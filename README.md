@@ -1,0 +1,1 @@
+This app contains code examples to create a visitor ID (UUID) and store/retrieve it from NSUserDefaults.  It also has code to retrieve device information from UIDevice and screen information from UIScreen.
