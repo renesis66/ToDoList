@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1068075-BFF3-4945-8A89-F5B6A6AA0DD8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ToDoList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>17372CCFE2038E69B0D998998BCEC32D050916A3</key>
+		<string>github.com:renesis66/ToDoList.git</string>
+		<key>f979c793-b81f-4695-85b0-1dcc12a4896e++505</key>
+		<string>http://svn.ct.com/repos/shopping/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ToDoList.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>17372CCFE2038E69B0D998998BCEC32D050916A3</key>
+		<string>../..</string>
+		<key>f979c793-b81f-4695-85b0-1dcc12a4896e++505</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>f979c793-b81f-4695-85b0-1dcc12a4896e++505</key>
+		<string>http://svn.ct.com/repos/shopping</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:renesis66/ToDoList.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>17372CCFE2038E69B0D998998BCEC32D050916A3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>f979c793-b81f-4695-85b0-1dcc12a4896e++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>17372CCFE2038E69B0D998998BCEC32D050916A3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ToDoList</string>
+		</dict>
+	</array>
+</dict>
+</plist>

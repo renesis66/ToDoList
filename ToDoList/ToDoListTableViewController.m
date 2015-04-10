@@ -57,6 +57,7 @@
     NSString *deviceModel = uiDevice.model;
     NSString *osName = uiDevice.systemName;
     NSString *osVersion = uiDevice.systemVersion;
+    NSString *idForVendor = uiDevice.identifierForVendor;
     // Retrieve device orientation
     UIDeviceOrientation deviceOrientation = uiDevice.orientation;
 
